@@ -118,7 +118,7 @@ F-statistic: 720.7 on 3 and 1746 DF,  p-value: < 2.2e-16
 and the boxplot is:
 
 <p align="left">
-<img src="/gfiles/eda-event.png" width="600px">
+<img src="/gfiles/lm-boxplot.png" width="600px">
 </p>
 
 * Next, we estimate a Poisson regression model with outcome variable, *y*, and independent variables, *x* and *z*:
